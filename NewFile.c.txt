@@ -1,1 +1,3 @@
-Line om master
+Line on master
+Line1 on branch
+Line2 on branch
