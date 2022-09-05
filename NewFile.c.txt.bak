@@ -1,3 +1,8 @@
 Line on master
+<<<<<<< HEAD
 Line1 on branch
 Line2 on branch
+Line2 on branch after push
+=======
+line 2
+>>>>>>> main

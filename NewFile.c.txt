@@ -1,4 +1,5 @@
-Line on master
+Line 1 on main
+line 2 main
 Line1 on branch
 Line2 on branch
 Line2 on branch after push
